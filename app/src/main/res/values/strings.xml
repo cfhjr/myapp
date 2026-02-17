@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">streamingplatform-new</string>
+    <string name="uploaded_on">Uploaded on: %s</string>
+    <string name="welcome_user">Welcome, %s</string>
+    <string name="error_response">Error %1$d: %2$s</string>
+    <string name="upload_failed">Upload Failed: %s</string>
+    <string name="comment_posted">Comment posted</string>
+    <string name="video_url_not_found">Video URL not found</string>
+    <string name="network_error">Network Error: %s</string>
+    <string name="server_error">Server Error: Check Logcat</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="post">Post</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_approved_videos">No approved videos found</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="liked">liked</string>
+    <string name="unliked">unliked</string>
+    <string name="disliked">disliked</string>
+    <string name="undisliked">undisliked</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="upload">Upload</string>
+    <string name="uploading">Uploading...</string>
+    <string name="upload_successful">Upload Successful!</string>
+    <string name="server_error_msg">Server Error: %s</string>
+    <string name="count_format">%d</string>
+</resources>
